@@ -1,4 +1,4 @@
-## 🔧 Technologies
+## Technologies
 - Java (OOP, File I/O)
 - HTML, CSS
 - PHP
